@@ -1,0 +1,38 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>download (14).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\download (14).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>1</ymin>
+			<xmax>180</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>36</ymin>
+			<xmax>237</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

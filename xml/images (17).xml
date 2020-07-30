@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>images (17).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\images (17).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>62</ymin>
+			<xmax>172</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

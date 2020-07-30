@@ -1,0 +1,50 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>images (39).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\images (39).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>179</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jackfruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>103</ymin>
+			<xmax>74</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jackfruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>111</ymin>
+			<xmax>112</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jackfruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>115</ymin>
+			<xmax>148</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

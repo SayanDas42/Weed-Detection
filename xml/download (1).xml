@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>download (1).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\download (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potato plant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>1</ymin>
+			<xmax>223</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

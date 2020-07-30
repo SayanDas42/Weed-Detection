@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>kesar-mango-tree-plants-1996573.jpg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\kesar-mango-tree-plants-1996573.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>58</ymin>
+			<xmax>549</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

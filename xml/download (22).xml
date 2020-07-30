@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>download (22).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\download (22).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>258</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pumpkin plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>9</ymin>
+			<xmax>220</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

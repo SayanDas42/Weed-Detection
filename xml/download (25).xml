@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>plants</folder>
+	<filename>download (25).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\download (25).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>7</ymin>
+			<xmax>210</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

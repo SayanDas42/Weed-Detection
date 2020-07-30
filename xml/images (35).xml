@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>images (35).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\images (35).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>61</ymin>
+			<xmax>164</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

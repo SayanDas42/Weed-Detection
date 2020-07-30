@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>download (34).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\download (34).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>4</ymin>
+			<xmax>212</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

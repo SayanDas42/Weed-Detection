@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plants</folder>
+	<filename>download (11).jpeg</filename>
+	<path>C:\Users\Rahul Kumar\Downloads\plants-20200313T192247Z-001\plants\download (11).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pui plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>7</ymin>
+			<xmax>244</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
