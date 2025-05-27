@@ -34,6 +34,8 @@ pip install –upgrade tensorflow.
 
 9. Install Visual C++ if you encounter some missing dll files from here.
 
+10. Finally go inside 'object-detection' folder and run'model_main.py'.
+
 Please make sure you have all of the above modules and Python installed before you proceed to execute the program.
 
 Thank you.
